@@ -1,27 +1,19 @@
-# Turborepo starter with shadcn/ui
-
-![Static Badge](https://img.shields.io/badge/shadcn%2Fui-2.1.2-blue?link=https%3A%2F%2Fgithub.com%2Fshadcn%2Fui)
+# Turborepo Monorepo
 
 This is Turborepo starter with shadcn/ui pre-configured.
-
-> [!NOTE]
-> This example uses `pnpm` as package manager.
-
-[npm version](https://github.com/dan5py/turborepo-shadcn-ui/tree/npm)
-[bun version](https://github.com/dan5py/turborepo-shadcn-ui/tree/bun)
 
 ## Using this example
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/dan5py/turborepo-shadcn-ui.git
+git clone https://github.com/marville001/store-app-monorepo.git
 ```
 
 Install dependencies:
 
 ```sh
-cd turborepo-shadcn-ui
+cd store-app-monorepo
 pnpm install
 ```
 
